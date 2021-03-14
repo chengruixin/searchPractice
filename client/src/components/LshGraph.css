@@ -1,0 +1,21 @@
+#lsh-graph-box {
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    margin: 2rem;
+    background-color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.set-params {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#lsh-graph {
+    width: 400px;
+    height: 400px;
+}
